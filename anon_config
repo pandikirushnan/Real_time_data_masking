@@ -1,0 +1,5 @@
+#masking_method Database_name.Table_name.Column_name
+hash_column customer_db.customer.first_name
+hash_phone customer_db.customer.phone
+hash_email customer_db.customer.email
+
